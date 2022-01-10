@@ -37,6 +37,7 @@
 - la description du Minimum Viable Product :
 c'est-à-dire la liste les fonctionnalités (spécifications fonctionnelles) minimales pour que votre MVP réponde aux besoins exprimés et objectifs que vous avez posés. N'hésitez pas à prévoir une autre partie (type Version 2) dans laquelle vous décrivez les potentielles évolutions de votre application.
 - la liste des technologies utilisées (spécifications techniques)
+- l'identification des risques et menaces à la collecte, au traitement, au stockage et à la diffusion des données à caractère personnel et la liste des solutions et défenses mises en œuvre appropriées
 - les wireframes du projet : les wireframes sont des représentations graphiques des éléments de vos pages, il faut légender les éléments d'interactivité.
 - l'arborescence de l'appli
 - la liste des users stories
