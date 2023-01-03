@@ -44,5 +44,8 @@ c'est-à-dire la liste les fonctionnalités (spécifications fonctionnelles) min
 - les rôles de chacun dans le projet (les rôles possibles : *Lead dev front* / *lead dev back* (en cas de conflit tranche les choix techniques côté front / côté back, et est le responsable du bon fonctionnement de la facette back ou front du projet) | *Git master* (gère le versioning du projet, fait les merge, résout les conflits et problèmes git | *Product Owner* (représente les intérêts du client, il tranche en cas de conflit sur les fonctionnalités (pas sur le choix des technos ça c'est le rôle des lead dev).
 - le calendrier des différentes phases du projet
 - les documents liés à la base de données : Modèle Conceptuel de Données et Dictionnaire de Données
+- le diagramme des cas d'utilisations UML
+- le diagramme de classes UML
+- les  diagrammes de séquences 
 
 Good Luck &#x1F913;
